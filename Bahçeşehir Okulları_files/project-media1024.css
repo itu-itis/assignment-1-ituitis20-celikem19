@@ -1,0 +1,106 @@
+.wrapper { width:94%;}
+.topMenuContainer { display:none;}
+.mobileTopMenuContainer { display:block;}
+.mobileTopMenuOpen { color:#24303b; position:absolute; right:3%; top:60px; z-index:9999;}
+.mobileTopMenuOpen img { margin:0 18px 0 0; float:left;}
+.mobileTopMenuOpenTitle { margin:-3px 0 0 0; float:left; font-weight:300; font-size:24px;}
+.mobileTopMenu { display:none; background:#24303c; padding:5% 10%; margin:0; top:150px; position:relative; z-index:9;}
+.mobileTopMenu ul li { list-style:none; font-size:18px; border-bottom:1px solid #3c4b5a; padding:10px 0;}
+.mobileTopMenu ul li a { color:#fff;}
+.mobileTopMenu ul li.subMenu { display:none;}
+
+.topSubMenuContainer a { padding:0 0 0 10px;}
+a.btnStoys { margin:0 5px 0 10px; padding:10px 20px;}
+a.btnOnlineKayit { padding:10px 20px;}
+
+.headerTopContainer { margin:0 0 0 -47%;}
+.logoContainer { width:12%;}
+.logoContainer img { width:100%;}
+#homeDefaultFlashContainer { padding:100px 0 0 0; margin:0 0 25px 0; background:#f1f1f1; }
+#homeFlashContainer {}
+
+#homeContentContainer { background-position:center 30px; margin:0;}
+
+#homeBannerContainer { background:none;}
+#homeBannerContainer .wrapper { width:100%;}
+#detailBannerContainer { background:none;}
+#detailBannerContainer .wrapper { width:100%;}
+
+.homeSearchContainer { background-size:contain;}
+.homeSearchTitle { font-size:18px; width:145px; padding:13px 0 0 30px; margin:28px 0 0 -20px;}
+.homeSearchNameTextBox .txtbox { width:180px; padding:8px;}
+.homeSearchCitySelect .txtbox { width:180px; padding:8px;}
+.homeSearchMapButton a { font-size:16px; padding:10px 20px 10px 60px;}
+.btnGoster { font-size:18px;}
+
+.homeSchoolsBannerContainer a { width:25%;}
+.homeSchoolsBannerContainer a img { max-width:100%;}
+
+.homeNewsContainer .haberGorsel { width:48%; }
+.homeNewsContainer .haberGorsel img { max-width:100%;}
+.homeNewsContainer .haberSummaryContainer { width:50%; margin:0 0 0 2%;}
+#homeGalleryContainer .videoContainer { width:45%;}
+#homeGalleryContainer .photoContainer { width:54%;}
+#homeGalleryContainer a.top1 { width:45%;}
+#homeGalleryContainer a.top2 { width:54%;}
+#homeGalleryContainer a.bottom1 { width:63%;}
+#homeGalleryContainer a.bottom2 { width:36%;}
+.homeTwitterContainer { width:39%; padding:40px 4%;}
+
+#velilerGalleryContainer .galleryBorderContainer { border:none;}
+#velilerGalleryContainer .galleryContainer { margin:0;}
+#velilerGalleryContainer .videoContainer { width:45%;}
+#velilerGalleryContainer .photoContainer { width:54%;}
+#velilerGalleryContainer a.top1 { width:45%;}
+#velilerGalleryContainer a.top2 { width:54%;}
+#velilerGalleryContainer a.bottom1 { width:63%;}
+#velilerGalleryContainer a.bottom2 { width:36%;}
+
+
+#footerTopContainer .BKLogo { width:15%;}
+#footerTopContainer .BKLogo img { max-width:100%;}
+#footerTopContainer .footerItemPanel { width:84%; margin:40px 0 0 1%;}
+
+#footerTopContainer .footerItemPanel .item {margin: 10px 0 0 1%;padding: 0 1% 0 6%;width: 16%;background-size: 17% auto;}
+#footerTopContainer .footerItemPanel .item h2 { font-size:22px;}
+#footerTopContainer .footerItemPanel .item h2 em { font-size:14px;}
+
+
+#footerBottomContainer .fBottomLeft { float:none; display:table; margin:0 auto;}
+#footerBottomContainer .fBottomRight { float:none; display:table; margin:10px auto 0 auto;}
+#footerBottomContainer .fBottomMenu ul li a { font-size:14px;}
+#footerBottomContainer .fBottomRight p, #footerBottomContainer .fBottomRight p a { font-size:14px;}
+
+#footerIntContainer .footerIntContent{width:100%;}
+
+#detailContentHTML .pageLeft { width:65%;}
+#detailContentHTML .pageRight { width:32%;}
+#detailContentHTML .pageTitleAndBreadCrumb h2 { width:65%;}
+#detailContentHTML .pageTitleAndBreadCrumb .breadCrumb { width:65%;}
+.pageRightMenu .rightMenu { padding:35px 10%;}
+.pageSocialShare { padding:25px 1%;}
+
+#detailContentHTML .pageHTML ul { margin:25px 3% 25px 6%;}
+
+#haberlerListeYillarContainer ul li.level1 { display:block;}
+#haberlerListeYillarContainer ul li.subMenu1 { position:relative; top:auto;}
+#haberlerListeYillarContainer ul li.subMenu1 ul li a {}
+#haberlerListeYillarContainer ul li.subMenu1 ul li a:hover { color:#fff; text-decoration:none; }
+#haberlerListeYillarContainer ul li a { border:none;}
+#haberlerListeYillarContainer ul li a:hover { color:#24303b !important; text-decoration:none !important;}
+
+.homeSocialMediaIcons { height:161px;}
+
+#egitimHomeContentSummary img { max-width:100%;}
+#egitimHomeContent { background-size:100%; padding:0;}
+
+#egitimHomeContent .leftContainer { width:44%; margin:0 3%;}
+#egitimHomeContent h1 { padding:60px 0;}
+
+.egitimHomeSloganButtonBoxContainer { font-size:20px;}
+.egitimHomeSloganButtonBoxContainer a { padding:25px 2%; width:17%;}
+
+.homeUpcomingEventsContainer h1 { background-size:100% 1px;}
+#sliderCalenderContainer h1 { background-size:100% 1px;}
+#homeGalleryContainer h1 { background-size:100% 1px;}
+#homeBDEventCategoriesContainer { background-size:100%;}

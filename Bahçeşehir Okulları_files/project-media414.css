@@ -1,0 +1,5 @@
+.mobileFooterContactContainer { padding:30px 2%; width:90%; margin:0 auto;}
+.mobileFooterTel { padding:10px 0; border-bottom:1px solid #24303b; width:auto; border-right:none; float:none; text-align:center;}
+.mobileFooterTel a { padding:0 0 5px 60px; display:table; margin:0 auto;}
+.mobileFooterContact { padding:10px 0; width:auto; float:none; text-align:center;} 
+.mobileFooterContact a {  padding:0 0 5px 60px; display:table; margin:0 auto;}
