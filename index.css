@@ -34,7 +34,7 @@ text-align:center;
 
 .top li {
    float: left;
-  width:%20; 
+  width:20%; 
   
 }
 
@@ -133,8 +133,8 @@ right:-600px;
 
 }
 .last {
-position:absolute;
-  top:1500px;
+  position:absolute;
+  bottom:-1000px;
   width: 100%;
   height: 8%;
   padding:10px;
