@@ -34,7 +34,6 @@ text-align:center;
 
 .top li {
    float: left;
-  width:20%; 
   
 }
 
@@ -42,7 +41,7 @@ text-align:center;
   display: table;
   color: white;
   text-align:center;
-  padding: 20px 119.4px ;
+  padding: 20px 119.8px ;
   text-decoration: none;
 }
 
