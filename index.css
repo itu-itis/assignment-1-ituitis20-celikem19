@@ -1,0 +1,76 @@
+body{
+	margin:0;
+	background-color:red;
+	color:white;
+}
+
+.background1 img{
+max-width:100%;
+height: auto;
+
+}
+.top {
+  
+  padding: 0px;
+  background-color:maroon;
+  
+  width: 100%;
+  top:0;
+  
+}
+
+.top ul {
+  position:relative;
+  top: 0 ;
+  list-style-type: none;
+  margin: 0;
+  padding-left: 0px;
+  overflow: hidden;
+  background-color: maroon;
+}
+
+.top li {
+   float: left;
+  width:%20; 
+  
+}
+
+.top li a {
+  display: table;
+  color: white;
+  text-align:center;
+  padding: 20px 119.5px ;
+  text-decoration: none;
+}
+
+.top li a:hover {
+  background-color: red;
+}
+.top li a:active {
+  background-color: red;
+}
+.tops {
+font-size:30px;
+font-style: italic;
+}
+.p1 {
+font-size: 25px;
+}
+.sport {
+font-size: 25px;
+}
+.mephoto img{
+max-width:50%;
+margin-left:20px;
+width:600px;
+height:450px;
+
+}
+.aboutme {
+margin-left:800px;
+margin-right:180px;
+margin-top:-430px;
+text-align: center;
+float: right;
+font-size:30px;
+}
