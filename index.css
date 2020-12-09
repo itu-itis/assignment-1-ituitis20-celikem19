@@ -139,7 +139,19 @@ top:100%;
   background-color:#660000; 
   float: left;
 }
+.bk1 img{
+width:40%;
+height:auto;
+left:5%;
+position:absolute;
+}
+.bk2 img{
+width:40%;
+height:auto;
 
+position:absolute;
+right:5%;
+}
 
 
 
