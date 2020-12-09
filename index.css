@@ -107,20 +107,20 @@ font-size:150%;
 top:150%
 }
 .logo1 img{
-width:25%;
+width:15%;
 height:auto;
-margin-top:-10px;
+
 position:absolute;
 left:2%;
+top:72%
 
 }
 .logo2 img{
-width:25%;
+width:15%;
 height:auto;
-margin-top:-%5;
 position:absolute;
 right:2%;
-
+top:72%
 }
 .teacher1 {
 font-size:30px;
@@ -152,9 +152,34 @@ height:auto;
 position:absolute;
 right:5%;
 }
-
-
-
+.bk3 img{
+width:40%;
+height:auto;
+left:5%;
+top:170%;
+position:absolute;
+}
+.bk4 img{
+width:40%;
+height:auto;
+right:5%;
+top:170%;
+position:absolute;
+}
+.bk5 img{
+width:40%;
+height:auto;
+left:5%;
+top:240%;
+position:absolute;
+}
+.bk6 img{
+width:40%;
+height:auto;
+right:5%;
+top:240%;
+position:absolute;
+}
 
 
 
